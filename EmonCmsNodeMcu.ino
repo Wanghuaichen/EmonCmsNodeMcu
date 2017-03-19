@@ -14,7 +14,7 @@
   Connect IR sensor to 3.3V, GND and D1 (GPIO5)  
   Arduino IDE 1.8.0
  
-  Athour: Anders Wilhelmsson 2017
+  Author: Anders Wilhelmsson 2017
   
   Open source
   
